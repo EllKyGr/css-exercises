@@ -1,0 +1,17 @@
+.bright{
+    background-color: lightsalmon;
+    color: aliceblue;
+
+}
+
+.dull{
+    background-color: grey;
+
+}
+
+.bright,
+.dull {
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+
+}
